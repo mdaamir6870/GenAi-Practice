@@ -8,7 +8,7 @@ A beginner-friendly Python project to understand **API keys, environment variabl
 - Google Gemini
 - Ollama
 
----
+------
 
 ## 🚀 Project Roadmap
 
